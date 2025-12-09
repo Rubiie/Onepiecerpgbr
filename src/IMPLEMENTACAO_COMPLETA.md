@@ -38,6 +38,9 @@ Transformar o projeto One Piece RPG para rodar **perfeitamente no Vercel sem err
 | `COMANDOS_UTEIS.md` | 8 | Referência de comandos | ✅ |
 | `VISUAL_GUIDE.md` | 10 | Guia visual ilustrado | ✅ |
 | `DOCUMENTACAO_INDEX.md` | 4 | Índice da documentação | ✅ |
+| `NOTAS_IMPORTANTES.md` | 8 | Versões e compatibilidade | ✅ |
+| `SWC_GUIDE.md` | 6 | Guia do compilador SWC | ✅ |
+| `START_HERE.md` | 1 | Início super rápido | ✅ |
 
 ### 3. 🤖 Scripts Automatizados (7 scripts)
 

@@ -1,9 +1,21 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react-swc' // <-- Esta linha é crucial
+import react from '@vitejs/plugin-react' // Babel (mais lento, mas com mais plugins)
+
+/**
+ * Configuração Vite com Babel
+ * 
+ * Use este arquivo se precisar de plugins Babel específicos
+ * ou tiver problemas com SWC.
+ * 
+ * Para usar esta configuração:
+ * 1. Renomeie vite.config.ts para vite.config.swc.ts
+ * 2. Renomeie este arquivo para vite.config.ts
+ * 3. Reinicie o servidor (npm run dev)
+ */
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()], // <-- E o uso aqui também
+  plugins: [react()],
   server: {
     port: 5173,
     strictPort: false,

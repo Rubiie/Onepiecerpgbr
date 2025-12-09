@@ -36,6 +36,8 @@
 | `vite` | `^5.0.0` | Build tool rápido |
 | `typescript` | `^5.3.0` | TypeScript 5 |
 | `tailwindcss` | `^4.0.0` | Tailwind v4 (CSS-first) |
+| `@vitejs/plugin-react` | `^4.2.0` | Plugin React (Babel) |
+| `@vitejs/plugin-react-swc` | `^3.0.0` | Plugin React (SWC - mais rápido) |
 
 ### Backend (Supabase Edge Functions)
 

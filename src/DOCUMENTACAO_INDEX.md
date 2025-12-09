@@ -47,6 +47,8 @@
 | Documento | Conteúdo |
 |-----------|----------|
 | **[COMANDOS_UTEIS.md](./COMANDOS_UTEIS.md)** | Todos os comandos que você precisa |
+| **[SWC_GUIDE.md](./SWC_GUIDE.md)** | ⚡ Guia do compilador SWC (performance) |
+| **[PERFORMANCE.md](./PERFORMANCE.md)** | 🚀 Otimizações e métricas |
 
 ---
 
@@ -171,7 +173,7 @@ one-piece-rpg/
 │       ├── RPGResources.tsx
 │       └── ui/                  🎨 Componentes UI
 │
-├── ���� Backend (Supabase)
+├── Backend (Supabase)
 │   └── supabase/
 │       └── functions/
 │           └── server/
