@@ -38,6 +38,7 @@
 |-----------|-------------|
 | **[TROUBLESHOOTING.md](./TROUBLESHOOTING.md)** | Site não funciona? Veja aqui! |
 | **[FAQ.md](./FAQ.md)** | Perguntas frequentes |
+| **[NOTAS_IMPORTANTES.md](./NOTAS_IMPORTANTES.md)** | ⚠️ Versões e compatibilidade |
 
 ---
 
@@ -170,7 +171,7 @@ one-piece-rpg/
 │       ├── RPGResources.tsx
 │       └── ui/                  🎨 Componentes UI
 │
-├── 🔙 Backend (Supabase)
+├── ���� Backend (Supabase)
 │   └── supabase/
 │       └── functions/
 │           └── server/
